@@ -1,0 +1,16 @@
+demo.bin
+demo.pun
+demo.vz
+demo.wav
+unpack.bin
+
+*.lst
+*.o
+
+rom.bin
+third_party/vzem/vzrom.v20
+
+# From part.mk
+*.part
+*.mem
+*-speed.wav

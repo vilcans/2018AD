@@ -1,0 +1,2 @@
+/Applications/VLC.app/Contents/MacOS/VLC 2018AD-3.mov --no-repeat --no-loop -I dummy :sout='#transcode{vcodec=h264,vb=4096,acodec=mp2a,ab=256,scale=1,channels=2,audio-sync,vfilter=deinterlace{mode=yadif}}:std{access=file, mux=ps,dst="2018ad_out.mpg"}' vlc://quit
+
