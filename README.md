@@ -5,6 +5,10 @@ The computer was sold under different names in different countries: Salora Fello
 
 This demo competed in the demo competition at the Edison 2018 party where it received a shared 1st prize.
 
+![Loading screen](release/screenshot1-512.png "2018 A.D. loading screen")
+
+## Credits
+
 Code: Morbid, Imodium, vilcans
 
 Music: vilcans
